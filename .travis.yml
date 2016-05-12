@@ -21,3 +21,5 @@ deploy:
   app: dry-woodland-85147
   on:
     repo: h3h/peepchat-ui
+notifications:
+  email: false
